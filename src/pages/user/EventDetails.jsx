@@ -117,7 +117,7 @@ const EventDetails = () => {
                     </svg>
                     Processing...
                   </span>
-                ) : event.remainingSlots > 0 ? "Book My Spot Now" : "Currently Full"}
+                ) : event.remainingSlots > 0 ? "Book My Slot Now" : "Currently Full"}
               </button>
 
               <button 
